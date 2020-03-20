@@ -1,0 +1,3 @@
+.env
+pacman-cache/*
+!pacman-cache/.gitkeep

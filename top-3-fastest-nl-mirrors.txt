@@ -1,0 +1,3 @@
+https://mirrors.xtom.nl/archlinux/$repo/os/$arch
+https://mirror.mijn.host/archlinux/$repo/os/$arch
+https://arch.mirrors.lavatech.top/$repo/os/$arch

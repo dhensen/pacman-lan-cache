@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  local-arch-mirror:
+    build:
+      context: .
+    volumes:
+      - $HOST_PATH_PACMAN_CACHE:/srv/http/pacman-cache
+    ports:
+      - "8080:8080"
